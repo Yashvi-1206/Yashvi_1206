@@ -8,7 +8,7 @@
 
 <!-- Dark Themed | Animated Character | Gaming Style -->
 
-<h1 align="center" style="color:white;">🎮 Yashvi's Dev Arena 🎮</h1>
+<h1 align="center" style="color:dark;">🎮 Yashvi's Dev Arena 🎮</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&vCenter=true&center=true&width=435&lines=💻+Full+Stack+Warrior;🔫+Code+Sniper+in+Python%2C+JS%2C+PHP;🎯+Always+Ready+for+Boss+Bug+Battles;👾+React+and+Node+Ninja" alt="Typing SVG" />
