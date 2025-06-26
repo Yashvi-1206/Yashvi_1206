@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patel Yashvi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Python and Data Analytics**
+- 🌱 I’m currently learning **Python and Data engineering**
 
 - 📫 How to reach me **patelyashvi0605@gmail.com**
 
